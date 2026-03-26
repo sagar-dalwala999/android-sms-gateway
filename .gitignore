@@ -208,12 +208,6 @@ Temporary Items
 *.icloud
 
 ### VisualStudioCode ###
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-!.vscode/*.code-snippets
 
 # Local History for Visual Studio Code
 .history/
@@ -369,3 +363,5 @@ hs_err_pid*
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
 
+temp_auto_push.bat
+temp_interactive_push.bat
